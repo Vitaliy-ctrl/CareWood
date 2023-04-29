@@ -362,3 +362,72 @@ body {
   letter-spacing: -0.02em;
   color: #FFFFFF;
 }
+
+.page4 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 205px 0 205px 80px;
+}
+
+.text_our_works {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.img_our_works {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 32px;
+}
+
+.text_our_works1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #1BB57C;
+}
+
+.text_our_works2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 53px;
+  letter-spacing: -0.02em;
+  color: #4F362B;
+  margin: -35px 0 0 0;
+}
+
+.text_our_works3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  color: #4F362B;
+  margin: -5px 0 0 0;
+}
+
+.button_our_works {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 19px 38px;
+  gap: 10px;
+  width: 192px;
+  height: 56px;
+  background: #C14E31;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+}
+
