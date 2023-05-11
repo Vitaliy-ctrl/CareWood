@@ -431,3 +431,152 @@ body {
   color: #FFFFFF;
 }
 
+.page5 {
+  background: #FDF6EE;
+  display: flex;
+  padding: 160px 80px 160px 80px;
+}
+
+.text_about_us {
+  width: 514px;
+  height: 544px;
+  margin: 20px 0 0 141px;
+}
+
+.text_about_us1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #1BB57C;
+}
+
+.text_about_us2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 53px;
+  letter-spacing: -0.02em;
+  color: #4F362B;
+  padding: 20px 0;
+}
+
+.text_about_us3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  color: #4F362B;
+  padding: 10px 0 35px 0;
+}
+
+.text_about_us5 {
+  background: url("../img/frame.svg") left no-repeat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #4F362B;
+  padding: 0 0 0 55px;
+  margin: 0 0 18px -10px;
+}
+
+
+.button_our_works {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 19px 38px;
+  gap: 10px;
+  background: #C14E31;
+  border: 1px solid #C14E31;
+  border-radius: 8px;
+}
+
+.page6 {
+  background: #16504F;
+}
+
+.text_our_approach0 {
+  display: flex;
+  padding: 144px 80px 120px 80px;
+}
+
+.text_our_approach {
+  padding-right: 140px;
+}
+
+.text_our_approach1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #1BB57C;
+  margin-bottom: 8px;
+}
+
+.text_our_approach2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 53px;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+  margin-bottom: 24px;
+}
+
+.text_our_approach3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+  margin-bottom: 48px;
+}
+
+.button_our_approach {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 19px 38px;
+  gap: 10px;
+  width: 217px;
+  height: 58px;
+  background: #C14E31;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+}
+
+.text2_our_approach {
+  display: flex;
+  padding: 0 80px 128px 80px;
+}
+
+.text2_our_approach0,
+.text2_our_approach2 {
+  margin-right: 77px;
+}
+
+.text2_our_approach_img {
+  margin-bottom: 16px;
+}
+
+.text2_our_approach_p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
