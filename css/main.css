@@ -701,21 +701,67 @@ body {
   gap: 10px;
   width: 217px;
   height: 56px;
-  left: 0px;
+  left: 0;
   top: 250px;
   background: #C14E31;
   border-radius: 8px;
   color: #FFFFFF;
 }
 
-.img_contact {
-  /*background-image: none;*/
-  /*opacity: 0.08;*/
-  /*border-radius: 20px;*/
+.img_contact0 {
+  display: flex;
 }
 
+.img_contact1 {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 56px;
+  gap: 24px;
+  width: 296px;
+  height: 318px;
+  margin-right: 16px;
+}
+
+.img_contact3 {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 56px;
+  gap: 24px;
+  width: 296px;
+  height: 318px;
+  margin-left: 16px;
+}
+
+.img_contact_text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+}
+
+.img_contact_text1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+}
+
+
 .page9 {
-  background: #FDF6EE;
+  background-color: #FDF6EE;
   padding: 80px 80px 88px 80px;
 }
 
